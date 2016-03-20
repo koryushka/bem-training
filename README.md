@@ -27,7 +27,11 @@
 
 ```less
 // Pic 2
-// Your code goes here
+.tweet {
+  &__logo {}
+  &__text {}
+  &__published_at {}
+}
 ```
 <hr> <br>
 
@@ -38,7 +42,12 @@
 
 ```less
 // Pic 3
-// Your code goes here
+.features {
+  &__feature {}
+  &__image {}
+  &__title {}
+  &__description {}
+}
 ```
 <hr> <br>
 
@@ -49,7 +58,13 @@
 
 ```less
 // Pic 4
-// Your code goes here
+.theme-description {
+  &__label {}
+  &__devider {}
+  &__img {}
+  &__description {}
+
+}
 ```
 <hr> <br>
 
@@ -60,7 +75,15 @@
 
 ```less
 // Pic 5
-// Your code goes here
+.profile {
+  &__avatar {}
+  &__intro {}
+  &__devider {}
+  &__text {}
+  &__value {}
+  &__description {}
+  
+}
 ```
 <hr> <br>
 
@@ -71,7 +94,15 @@
 
 ```less
 // Pic 6
-// Your code goes here
+.preview {
+  &__btn {}
+}
+.info {
+  &__titile {}
+  &__devider {}
+  &__description {}
+  &__btn
+}
 ```
 <hr> <br>
 
@@ -82,7 +113,11 @@
 
 ```less
 // Pic 7
-// Your code goes here
+.main-menu {}
+.menu{
+  &__menu-item {}
+  &__menu-icon {}
+}
 ```
 <hr> <br>
 
@@ -93,7 +128,6 @@
 
 ```less
 // Pic 8
-// Your code goes here
 ```
 <hr> <br>
 
